@@ -1,0 +1,13 @@
+# Віртуальне середовище та кеш Jupiter/Python
+venv/
+.ipynb_checkpoints/
+--pycache--/
+*.pyc
+
+# Системні файли macOS
+.DS_Store
+
+# Файли з даними
+*.csv
+*.xlsx
+*.json
