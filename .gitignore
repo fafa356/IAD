@@ -7,7 +7,3 @@ venv/
 # Системні файли macOS
 .DS_Store
 
-# Файли з даними
-*.csv
-*.xlsx
-*.json
